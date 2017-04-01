@@ -1,0 +1,45 @@
+{
+  "name": "intro-to-react",
+  "version": "1.0.0",
+  "description": "A Complete Introduction to React Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iharsimran30/intro-to-react.git"
+  },
+  "keywords": [
+    "react",
+    "introduction",
+    "redux",
+    "jsx",
+    "webpack"
+  ],
+  "author": "Harsimran Pandhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iharsimran30/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/iharsimran30/intro-to-react#readme",
+  "dependencies": {
+    "axios": "0.9.1",
+    "express": "4.13.4",
+    "lodash": "4.6.1",
+    "react": "0.14.7",
+    "react-dom": "0.14.7",
+    "react-redux": "4.4.0",
+    "react-router": "2.0.0",
+    "redux": "3.3.1"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^5.1.0",
+    "eslint-config-standard-jsx": "^1.1.1",
+    "eslint-config-standard-react": "^2.3.0",
+    "eslint-loader": "^1.3.0",
+    "eslint-plugin-promise": "^1.0.8",
+    "eslint-plugin-react": "^4.1.0",
+    "eslint-plugin-standard": "^1.3.2"
+  }
+}
